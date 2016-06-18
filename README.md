@@ -1,0 +1,1 @@
+A short piece of code to scrape links to automate collecting links.
